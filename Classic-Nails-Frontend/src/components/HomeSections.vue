@@ -1,12 +1,12 @@
 <template>
     <section class="u-clearfix u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-section-1" id="carousel_eec8">
-        <div class="u-expanded-width u-palette-1-light-2 u-shape u-shape-rectangle u-shape-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500"></div>
-        <div class="u-image u-image-circle u-image-1" data-image-width="1200" data-image-height="800" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500"></div>
-        <div class="u-align-left u-container-align-left u-container-style u-group u-white u-group-1" data-animation-name="flipIn" data-animation-duration="1500" data-animation-direction="X" data-animation-delay="500">
+        <div class="u-expanded-width u-palette-1-light-2 u-shape u-shape-rectangle u-shape-1"></div>
+        <div class="u-image u-image-circle u-image-1" data-image-width="1200" data-image-height="800"></div>
+        <div class="u-align-left u-container-align-left u-container-style u-group u-white u-group-1">
             <div class="u-container-layout u-valign-middle u-container-layout-1">
                 <h2 class="u-align-left u-text u-text-default u-text-1">Welcome!</h2>
-                <p class="u-align-left u-text u-text-2"> Welcome to Classic Nails, where beauty meets precision and professionalism. Step into our sanctuary of self-care, where we strive to provide an unparalleled experience in nail care and relaxation. Whether you're seeking a simple manicure or a luxurious spa treatment, we're here to exceed your expectations and make you feel truly indulged.</p>
-                <router-link class="u-active-grey-70 u-align-left u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-pt-sans u-hover-grey-70 u-palette-1-dark-3 u-radius-6 u-btn-1" to="/services">Learn More</router-link>
+                <p class="u-align-left u-text u-text-2">Classic Nails where beauty meets precision and professionalism. Step into our sanctuary of self-care, where we strive to provide an unparalleled experience in nail care and relaxation. Whether you're seeking a simple manicure or a luxurious spa treatment, we're here to exceed your expectations and make you feel truly indulged.</p>
+                <router-link class="u-active-grey-70 u-align-left u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-pt-sans u-hover-grey-70 u-palette-1-dark-3 u-radius-6 u-btn-1" to="/services">Our Services</router-link>
             </div>
         </div>
     </section>
@@ -15,13 +15,13 @@
             <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
                 <div class="u-layout">
                     <div class="u-layout-row">
-                        <div class="u-container-style u-layout-cell u-shape-rectangle u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500">
+                        <div class="u-container-style u-layout-cell u-shape-rectangle u-size-30 u-layout-cell-1">
                             <div class="u-container-layout u-valign-bottom u-container-layout-1">
-                                <h5 class="u-text u-text-default u-text-1"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.</h5>
-                                <div class="u-image u-image-circle u-image-1" alt="" data-image-width="1200" data-image-height="800" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750"></div>
+                                <h5 class="u-text u-text-default u-text-1">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.</h5>
+                                <div class="u-image u-image-circle u-image-1" alt="" data-image-width="1200" data-image-height="800"></div>
                             </div>
                         </div>
-                        <div class="u-align-justify u-container-style u-layout-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                        <div class="u-align-justify u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                             <div class="u-container-layout u-valign-middle u-container-layout-2">
                                 <p class="u-text u-text-default u-text-2">Article evident arrived express highest men did boy. Mistress sensible entirely am so. Quick can manor smart money hopes worth too. Comfort produce husband boy her had hearing. Law others theirs passed but wishes. You day real less till dear read. Considered use dispatched melancholy sympathize discretion led.&nbsp;<br> <br>Oh feel if up to till like.&nbsp;He an thing rapid these after going drawn or. Timed she his law the spoil round defer. In surprise concerns informed betrayed he learning is ye. </p>
                             </div>
@@ -33,29 +33,29 @@
     </section>
     <section class="u-clearfix u-section-3" id="carousel_982d">
         <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs u-sheet-1">
-            <div class="u-palette-1-light-2 u-shape u-shape-rectangle u-shape-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500"></div>
+            <div class="u-palette-1-light-2 u-shape u-shape-rectangle u-shape-1"></div>
             <div class="data-layout-selected u-clearfix u-gutter-30 u-layout-wrap u-layout-wrap-1">
                 <div class="u-layout" style="">
                     <div class="u-layout-row" style="">
                         <div class="u-size-28 u-size-60-md">
                             <div class="u-layout-col">
-                                <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                                <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-1">
                                     <div class="u-container-layout u-valign-middle u-container-layout-1">
                                         <h2 class="u-align-left u-text u-text-1">All Treatments:</h2>
                                         <h2 class="u-align-left u-subtitle u-text u-text-2">Nails for Every Occasion</h2>
                                     </div>
                                 </div>
-                                <div class="u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                                <div class="u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-2">
                                     <div class="u-container-layout u-valign-top u-container-layout-2"> <img class="u-expanded-width u-image u-image-1" src="/src/assets/images/errre.jpg" data-image-width="695" data-image-height="1021"> </div>
                                 </div>
                             </div>
                         </div>
                         <div class="u-size-32 u-size-60-md" style="">
                             <div class="u-layout-col" style="">
-                                <div class="u-container-align-left u-container-style u-layout-cell u-left-cell u-size-40 u-layout-cell-3" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">
+                                <div class="u-container-align-left u-container-style u-layout-cell u-left-cell u-size-40 u-layout-cell-3">
                                     <div class="u-container-layout u-valign-top u-container-layout-3"> <img class="u-expanded-width u-image u-image-2" src="/src/assets/images/jh.jpg" data-image-width="700" data-image-height="700"> </div>
                                 </div>
-                                <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-4" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                                <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-4">
                                     <div class="u-container-layout u-valign-top u-container-layout-4">
                                         <p class="u-align-left u-text u-text-3"> At Classic Nails, we pride ourselves on offering a comprehensive range of nail services tailored to suit your individual style and preferences. From classic manicures and pedicures to intricate nail art designs, our skilled technicians are equipped to deliver flawless results every time.&nbsp;</p>
                                         <router-link class="u-active-grey-70 u-align-left u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-pt-sans u-hover-grey-70 u-palette-1-dark-3 u-radius-6 u-btn-1" to="/services">Learn More</router-link>
@@ -75,10 +75,10 @@
                     <div class="u-layout-row">
                         <div class="u-size-30">
                             <div class="u-layout-col">
-                                <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1" data-image-width="1200" data-image-height="857" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                                <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1" data-image-width="1200" data-image-height="857">
                                     <div class="u-container-layout"></div>
                                 </div>
-                                <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                                <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2">
                                     <div class="u-container-layout u-valign-bottom u-container-layout-2">
                                         <h2 class="u-text u-text-1">Waxing:</h2>
                                         <h2 class="u-subtitle u-text u-text-2">Smooth, Silky, and Professional<br> </h2>
@@ -91,9 +91,9 @@
                             <div class="u-layout-row">
                                 <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-60 u-layout-cell-3">
                                     <div class="u-container-layout u-container-layout-3">
-                                        <div class="custom-expanded u-align-left u-palette-1-light-2 u-shape u-shape-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500"></div> 
-                                        <img src="/src/assets/images/ghgh.jpg" alt="" class="u-align-left u-image u-image-2" data-image-width="700" data-image-height="619" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
-                                        <div class="u-container-style u-group u-group-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                                        <div class="custom-expanded u-align-left u-palette-1-light-2 u-shape u-shape-1"></div> 
+                                        <img src="/src/assets/images/ghgh.jpg" alt="" class="u-align-left u-image u-image-2" data-image-width="700" data-image-height="619">
+                                        <div class="u-container-style u-group u-group-1">
                                             <div class="u-container-layout u-valign-middle u-container-layout-4">
                                                 <p class="u-text u-text-4"> Whether you're looking to shape your brows or achieve a flawless upper lip, our waxing services are designed to meet your needs with precision and care. Trust Classic Nails for all your waxing needs, and discover the difference of our professional approach to beauty.</p>
                                                 <router-link class="u-active-grey-70 u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-pt-sans u-hover-grey-70 u-palette-1-dark-3 u-radius-6 u-btn-1" to="/services"> Our Treatments</router-link>
@@ -111,7 +111,7 @@
     <section class="u-clearfix u-section-5" id="sec-9045">
         <div class="u-clearfix u-sheet u-sheet-1">
             <div class="custom-expanded u-palette-4-base u-shape u-shape-rectangle u-shape-1"></div>
-            <div class="u-container-style u-group u-group-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+            <div class="u-container-style u-group u-group-1">
                 <div class="u-container-layout u-container-layout-1">
                     <h2 class="u-align-left u-text u-text-1">Stone Massage:<br> </h2>
                     <h2 class="u-align-left u-subtitle u-text u-text-2">Relax and Rejuvenate</h2>
@@ -119,26 +119,26 @@
                 </div>
             </div>
             <div class="u-image u-image-circle u-image-1" data-image-width="720" data-image-height="1080"></div>
-            <div class="u-expanded-width u-palette-1-light-2 u-shape u-shape-rectangle u-shape-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750"></div>
+            <div class="u-expanded-width u-palette-1-light-2 u-shape u-shape-rectangle u-shape-2"></div>
         </div>
     </section>
     <section class="u-clearfix u-expanded-width-xl u-palette-1-light-2 u-section-6" id="sec-e7e8">
         <div class="u-clearfix u-sheet u-sheet-1">
-            <div class="u-absolute-hcenter-lg u-absolute-hcenter-xl u-expanded-height u-palette-4-light-3 u-shape u-shape-rectangle u-shape-1" data-animation-name="customAnimationIn" data-animation-duration="1500"></div>
+            <div class="u-absolute-hcenter-lg u-absolute-hcenter-xl u-expanded-height u-palette-4-light-3 u-shape u-shape-rectangle u-shape-1"></div>
             <div class="data-layout-selected u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
                 <div class="u-gutter-0 u-layout">
                     <div class="u-layout-row">
                         <div class="u-size-27">
                             <div class="u-layout-col">
-                                <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                                <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
                                     <div class="u-container-layout u-container-layout-1">
                                         <h3 class="u-text u-text-1">location</h3>
                                         <p class="u-text u-text-2"> 8578 Westheimer Rd<br> Houston, TX 77063 </p>
                                     </div>
                                 </div>
-                                <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="0">
+                                <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2">
                                     <div class="u-container-layout u-container-layout-2">
-                                        <h3 class="u-text u-text-3" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">Contact US</h3>
+                                        <h3 class="u-text u-text-3">Contact US</h3>
                                         <p class="u-text u-text-4"> (713) 781-9888<br>cao.dang77477@gmail.com<br> </p>
                                         <h3 class="u-text u-text-5">follow us</h3>
                                         <div class="u-social-icons u-spacing-20 u-social-icons-1"> <a class="u-social-url" target="_blank" href="https://www.instagram.com/_classic.nails/"><span class="u-icon u-icon-circle u-social-icon u-social-instagram u-icon-1"> <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112.2 112.2">
@@ -172,7 +172,7 @@
                         </div>
                         <div class="u-size-33">
                             <div class="u-layout-row">
-                                <div class="u-container-style u-image u-layout-cell u-right-cell u-size-60 u-image-1" data-image-width="1000" data-image-height="1017" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">
+                                <div class="u-container-style u-image u-layout-cell u-right-cell u-size-60 u-image-1" data-image-width="1000" data-image-height="1017">
                                     <div class="u-container-layout u-container-layout-3"></div>
                                 </div>
                             </div>
