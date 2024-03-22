@@ -1,14 +1,14 @@
 <template>
     <section class="u-clearfix u-white u-section-1" id="carousel_c0ec">
-        <div class="u-container-style u-expanded-width u-group u-shape-rectangle u-group-1" data-animation-name="flipIn" data-animation-duration="1500" data-animation-direction="X" data-animation-delay="750">
+        <div class="u-container-style u-expanded-width u-group u-shape-rectangle u-group-1">
             <div class="u-container-layout u-container-layout-1">
-                <h2 class="u-align-center u-text u-text-default u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500">Our ​Treatments</h2>
-                <p class="u-align-center u-text u-text-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">Consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
+                <h2 class="u-align-center u-text u-text-default u-text-1">Our ​Treatments</h2>
+                <p class="u-align-center u-text u-text-2">Consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
             </div>
         </div>
         <div class="custom-expanded u-list u-list-1">
             <div class="u-repeater u-repeater-1">
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-1" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-1">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
                         <h3 class="u-align-center u-text u-text-body-color u-text-3"> Face </h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-1" alt="" data-image-width="740" data-image-height="1110"></div>
@@ -16,7 +16,7 @@
                         <a href="https://nicepage.com/k/presentation-html-templates" class="u-active-none u-align-center u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-black u-text-hover-grey-70 u-btn-1">find out more</a>
                     </div>
                 </div>
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-2" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-2">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
                         <h3 class="u-align-center u-text u-text-body-color u-text-5"> Body</h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-2" alt="" data-image-width="920" data-image-height="920"></div>
@@ -24,7 +24,7 @@
                         <a href="https://nicepage.com/joomla-page-builder" class="u-active-none u-align-center u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-black u-text-hover-grey-70 u-btn-2">find out more</a>
                     </div>
                 </div>
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-3" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-3">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
                         <h3 class="u-align-center u-text u-text-body-color u-text-7">Nails</h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-3" alt="" data-image-width="710" data-image-height="710"></div>
@@ -32,7 +32,7 @@
                         <a href="https://nicepage.com/one-page-template" class="u-active-none u-align-center u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-black u-text-hover-grey-70 u-btn-3">find out more</a>
                     </div>
                 </div>
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-4" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-4">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
                         <h3 class="u-align-center u-text u-text-body-color u-text-9"> Waxing</h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-4" alt="" data-image-width="710" data-image-height="710"></div>
@@ -40,7 +40,7 @@
                         <a href="https://nicepage.com/k/clothing-store-website-templates" class="u-active-none u-align-center u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-black u-text-hover-grey-70 u-btn-4">find out more</a>
                     </div>
                 </div>
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-5" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-5">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-6">
                         <h3 class="u-align-center u-text u-text-body-color u-text-11"> Eyes</h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-5" alt="" data-image-width="710" data-image-height="710"></div>
@@ -48,7 +48,7 @@
                         <a href="https://nicepage.com/k/auto-mechanic-html-templates" class="u-active-none u-align-center u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-black u-text-hover-grey-70 u-btn-5">find out more</a>
                     </div>
                 </div>
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-6" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-6">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-7">
                         <h3 class="u-align-center u-text u-text-body-color u-text-13"> Tanning&nbsp;<br> </h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-6" alt="" data-image-width="710" data-image-height="710"></div>
@@ -56,7 +56,7 @@
                         <a href="https://nicepage.com/c/food-restaurant-website-templates" class="u-active-none u-align-center u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-black u-text-hover-grey-70 u-btn-6">find out more</a>
                     </div>
                 </div>
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-7" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="1000">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-7">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-8">
                         <h3 class="u-align-center u-text u-text-body-color u-text-15"> Threading<br> </h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-7" alt="" data-image-width="710" data-image-height="710"></div>
@@ -64,7 +64,7 @@
                         <a href="https://nicepage.com/html-website-builder" class="u-active-none u-align-center u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-black u-text-hover-grey-70 u-btn-7">find out more</a>
                     </div>
                 </div>
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-8" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="1000">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-8">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-9">
                         <h3 class="u-align-center u-text u-text-body-color u-text-17"> Electrolysis<br> </h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-8" alt="" data-image-width="710" data-image-height="710"></div>
@@ -72,7 +72,7 @@
                         <a href="https://nicepage.com/c/table-html-templates" class="u-active-none u-align-center u-border-1 u-border-active-grey-70 u-border-black u-border-hover-grey-70 u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-hover-none u-none u-text-active-grey-70 u-text-black u-text-hover-grey-70 u-btn-8">find out more</a>
                     </div>
                 </div>
-                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-9" data-animation-direction="Up" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="1000">
+                <div class="u-align-center u-container-align-center u-container-style u-hover-feature u-list-item u-palette-1-light-2 u-repeater-item u-shape-rectangle u-list-item-9">
                     <div class="u-container-layout u-similar-container u-valign-top u-container-layout-10">
                         <h3 class="u-align-center u-text u-text-body-color u-text-19">Pulsed Light<br> </h3>
                         <div class="u-border-5 u-border-white u-image u-image-circle u-image-9" alt="" data-image-width="740" data-image-height="1110"></div>
@@ -89,7 +89,7 @@
     <section class="u-align-center u-clearfix u-palette-1-light-2 u-section-2" id="carousel_0edc">
         <div class="u-container-align-center u-container-style u-group u-white u-group-1">
             <div class="u-container-layout u-valign-top u-container-layout-1">
-                <h2 class="u-align-center u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">Our Gallery</h2>
+                <h2 class="u-align-center u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1">Our Gallery</h2>
             </div>
         </div>
         <div class="u-gallery u-layout-grid u-lightbox u-show-text-on-hover u-gallery-1">
