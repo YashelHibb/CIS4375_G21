@@ -17,13 +17,13 @@
                     <div class="u-layout-row">
                         <div class="u-container-style u-layout-cell u-shape-rectangle u-size-30 u-layout-cell-1">
                             <div class="u-container-layout u-valign-bottom u-container-layout-1">
-                                <h5 class="u-text u-text-default u-text-1">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.</h5>
+                                <h5 class="u-text u-text-default u-text-1">Enjoy a complementary glass of wine and meet Cindy and Tony!</h5>
                                 <div class="u-image u-image-circle u-image-1" alt="" data-image-width="1200" data-image-height="800"></div>
                             </div>
                         </div>
                         <div class="u-align-justify u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                             <div class="u-container-layout u-valign-middle u-container-layout-2">
-                                <p class="u-text u-text-default u-text-2">Article evident arrived express highest men did boy. Mistress sensible entirely am so. Quick can manor smart money hopes worth too. Comfort produce husband boy her had hearing. Law others theirs passed but wishes. You day real less till dear read. Considered use dispatched melancholy sympathize discretion led.&nbsp;<br> <br>Oh feel if up to till like.&nbsp;He an thing rapid these after going drawn or. Timed she his law the spoil round defer. In surprise concerns informed betrayed he learning is ye. </p>
+                                <p class="u-text u-text-default u-text-2">Dedicated to their craftsmanship Cindy and Tony have built a solid foundation. For being in the industry for 25 years they sure will get you looking perfect.<br><br>Oh feel if up to till like. He an thing rapid these after going drawn or. Timed she his law the spoil round defer. In surprise concerns informed betrayed he learning is ye. </p>
                             </div>
                         </div>
                     </div>
@@ -46,19 +46,23 @@
                                     </div>
                                 </div>
                                 <div class="u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-2">
-                                    <div class="u-container-layout u-valign-top u-container-layout-2"> <img class="u-expanded-width u-image u-image-1" src="/src/assets/images/errre.jpg" data-image-width="695" data-image-height="1021"> </div>
+                                    <div class="u-container-layout u-valign-top u-container-layout-2">
+                                        <img class="u-expanded-width u-image u-image-1" src="/src/assets/images/StoreMassageChairs.jpg" data-image-width="695" data-image-height="1021">
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="u-size-32 u-size-60-md" style="">
                             <div class="u-layout-col" style="">
                                 <div class="u-container-align-left u-container-style u-layout-cell u-left-cell u-size-40 u-layout-cell-3">
-                                    <div class="u-container-layout u-valign-top u-container-layout-3"> <img class="u-expanded-width u-image u-image-2" src="/src/assets/images/jh.jpg" data-image-width="700" data-image-height="700"> </div>
+                                    <div class="u-container-layout u-valign-top u-container-layout-3">
+                                        <img class="u-expanded-width u-image u-image-2" src="/src/assets/images/Employee2.jpg" data-image-width="700" data-image-height="700">
+                                    </div>
                                 </div>
                                 <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-4">
                                     <div class="u-container-layout u-valign-top u-container-layout-4">
                                         <p class="u-align-left u-text u-text-3"> At Classic Nails, we pride ourselves on offering a comprehensive range of nail services tailored to suit your individual style and preferences. From classic manicures and pedicures to intricate nail art designs, our skilled technicians are equipped to deliver flawless results every time.&nbsp;</p>
-                                        <router-link class="u-active-grey-70 u-align-left u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-pt-sans u-hover-grey-70 u-palette-1-dark-3 u-radius-6 u-btn-1" to="/services">Learn More</router-link>
+                                        <router-link class="u-active-grey-70 u-align-left u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-pt-sans u-hover-grey-70 u-palette-1-dark-3 u-radius-6 u-btn-1" to="/services">Our Services</router-link>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +96,7 @@
                                 <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-60 u-layout-cell-3">
                                     <div class="u-container-layout u-container-layout-3">
                                         <div class="custom-expanded u-align-left u-palette-1-light-2 u-shape u-shape-1"></div> 
-                                        <img src="/src/assets/images/ghgh.jpg" alt="" class="u-align-left u-image u-image-2" data-image-width="700" data-image-height="619">
+                                        <img src="/src/assets/images/tyty.jpg" alt="" class="u-align-left u-image u-image-2" data-image-width="700" data-image-height="619">
                                         <div class="u-container-style u-group u-group-1">
                                             <div class="u-container-layout u-valign-middle u-container-layout-4">
                                                 <p class="u-text u-text-4"> Whether you're looking to shape your brows or achieve a flawless upper lip, our waxing services are designed to meet your needs with precision and care. Trust Classic Nails for all your waxing needs, and discover the difference of our professional approach to beauty.</p>
