@@ -1,7 +1,8 @@
 <template>
     <section class="u-clearfix u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-section-1" id="carousel_eec8">
         <div class="u-expanded-width u-palette-1-light-2 u-shape u-shape-rectangle u-shape-1"></div>
-        <div class="u-image u-image-circle u-image-1" data-image-width="1200" data-image-height="800"></div>
+        <div class="u-image u-image-circle u-image-1">
+        </div>
         <div class="u-align-left u-container-align-left u-container-style u-group u-white u-group-1">
             <div class="u-container-layout u-valign-middle u-container-layout-1">
                 <h2 class="u-align-left u-text u-text-default u-text-1">Welcome!</h2>
@@ -23,7 +24,7 @@
                         </div>
                         <div class="u-align-justify u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                             <div class="u-container-layout u-valign-middle u-container-layout-2">
-                                <p class="u-text u-text-default u-text-2">Dedicated to their craftsmanship Cindy and Tony have built a solid foundation. For being in the industry for 25 years they sure will get you looking perfect.<br><br>Oh feel if up to till like. He an thing rapid these after going drawn or. Timed she his law the spoil round defer. In surprise concerns informed betrayed he learning is ye. </p>
+                                <p class="u-text u-text-default u-text-2">Dedicated to their craftsmanship Cindy and Tony have built a solid foundation in the nail industry. After doing cosmetology for 25 years they sure aren't to be reckoned with.<br><br>Come now and have the best nail experience here as Tony and Cindy will always be waiting for you.</p>
                             </div>
                         </div>
                     </div>
