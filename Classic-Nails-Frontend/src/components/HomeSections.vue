@@ -6,7 +6,7 @@
         <div class="u-align-left u-container-align-left u-container-style u-group u-white u-group-1">
             <div class="u-container-layout u-valign-middle u-container-layout-1">
                 <h2 class="u-align-left u-text u-text-default u-text-1">Welcome!</h2>
-                <p class="u-align-left u-text u-text-2">Classic Nails where beauty meets precision and professionalism. Step into our sanctuary of self-care, where we strive to provide an unparalleled experience in nail care and relaxation. Whether you're seeking a simple manicure or a luxurious spa treatment, we're here to exceed your expectations and make you feel truly indulged.</p>
+                <p class="u-align-left u-text u-text-2">With more than 20 years in the business, Cindy and Tony have built a solid foundation in the nail industry. The husband-and-wife duo have made their name known in the Houston area by working together as a skillful team while staying true and dedicated to their craftsmanship. Their work is truly a reflection of passion and love of the art.</p>
                 <router-link class="u-active-grey-70 u-align-left u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-pt-sans u-hover-grey-70 u-palette-1-dark-3 u-radius-6 u-btn-1" to="/services">Our Services</router-link>
             </div>
         </div>
@@ -24,7 +24,7 @@
                         </div>
                         <div class="u-align-justify u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                             <div class="u-container-layout u-valign-middle u-container-layout-2">
-                                <p class="u-text u-text-default u-text-2">Dedicated to their craftsmanship Cindy and Tony have built a solid foundation in the nail industry. After doing cosmetology for 25 years they sure aren't to be reckoned with.<br><br>Come now and have the best nail experience here as Tony and Cindy will always be waiting for you.</p>
+                                <p class="u-text u-text-default u-text-2">Come visit, sit back with a complimentary* glass of wine on one of the state-of-the-art massage chairs and have a day well-deserved. We promise you will leave with satisfaction and think to yourself, “They Nail&apos;ed it!”<br><br>One cannot help but feel welcomed the second you step foot in the door. Their guests will be greeted with genuine smiles and treated with a warmness that is difficult to duplicate. They strive to create the best possible experience for every customer. </p>
                             </div>
                         </div>
                     </div>
@@ -62,7 +62,7 @@
                                 </div>
                                 <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-left-cell u-size-20 u-layout-cell-4">
                                     <div class="u-container-layout u-valign-top u-container-layout-4">
-                                        <p class="u-align-left u-text u-text-3"> At Classic Nails, we pride ourselves on offering a comprehensive range of nail services tailored to suit your individual style and preferences. From classic manicures and pedicures to intricate nail art designs, our skilled technicians are equipped to deliver flawless results every time.&nbsp;</p>
+                                        <p class="u-align-left u-text u-text-3"> At Classic Nails, we pride ourselves on offering a comprehensive range of nail services tailored to suit your individual style and preferences. From classic manicures and pedicures to intricate nail art designs, knowledgeable in the latest trends and constantly evolving styles, this dynamic duo will leave you speechless with the end results every single time.&nbsp;</p>
                                         <router-link class="u-active-grey-70 u-align-left u-border-none u-btn u-btn-round u-button-style u-custom-font u-font-pt-sans u-hover-grey-70 u-palette-1-dark-3 u-radius-6 u-btn-1" to="/services">Our Services</router-link>
                                     </div>
                                 </div>
@@ -137,15 +137,15 @@
                             <div class="u-layout-col">
                                 <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
                                     <div class="u-container-layout u-container-layout-1">
-                                        <h3 class="u-text u-text-1">location</h3>
+                                        <h3 class="u-text u-text-1">Location</h3>
                                         <p class="u-text u-text-2"> 8578 Westheimer Rd<br> Houston, TX 77063 </p>
                                     </div>
                                 </div>
                                 <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-2">
                                     <div class="u-container-layout u-container-layout-2">
-                                        <h3 class="u-text u-text-3">Contact US</h3>
+                                        <h3 class="u-text u-text-3">Contact Us</h3>
                                         <p class="u-text u-text-4"> (713) 781-9888<br>cao.dang77477@gmail.com<br> </p>
-                                        <h3 class="u-text u-text-5">follow us</h3>
+                                        <h3 class="u-text u-text-5">Follow Us</h3>
                                         <div class="u-social-icons u-spacing-20 u-social-icons-1"> <a class="u-social-url" target="_blank" href="https://www.instagram.com/_classic.nails/"><span class="u-icon u-icon-circle u-social-icon u-social-instagram u-icon-1"> <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112.2 112.2">
                                                         <use xlink:href="#svg-556d"></use>
                                                     </svg> <svg x="0px" y="0px" viewBox="0 0 112.2 112.2" style="enable-background:new 0 0 112.2 112.2;" xml:space="preserve" id="svg-556d" class="u-svg-content">

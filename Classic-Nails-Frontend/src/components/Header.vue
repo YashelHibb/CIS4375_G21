@@ -11,6 +11,9 @@
                     <li class="u-nav-item">
                         <router-link :class="{ 'u-active-palette-4-base': $route.path === '/services', 'u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-4-base u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90': true }" to="/services" style="padding: 10px 20px;">Services</router-link>
                     </li>
+                    <li class="u-nav-item">
+                        <a @click.prevent="navigateToHomeAndScroll" class="u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-4-base u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90" style="cursor: pointer; padding: 10px 20px;">Contact Us</a>
+                    </li>
                     <li class="u-nav-item"> 
                         <router-link :class="{ 'u-active-palette-4-base': $route.path === '/login', 'u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-hover-palette-4-base u-nav-link u-text-active-grey-90 u-text-grey-90 u-text-hover-grey-90': true }" to="/login" style="padding: 10px 20px;">Login</router-link> 
                     </li>
@@ -20,6 +23,26 @@
       </div>
   </header>
 </template>
+
+<script>
+export default {
+  name: 'HeaderComponent',
+  methods: {
+    navigateToHomeAndScroll() {
+      // Navigate to home page for Contact Us button
+      this.$router.push('/');
+
+      // Scroll to the specified section after a short delay to ensure the home page is rendered
+      setTimeout(() => {
+        const section = document.getElementById('sec-e7e8');
+        if (section) {
+          section.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 500); // Adjust the delay as needed
+    }
+  }
+}
+</script>
 
 <style>
 .u-active-palette-4-base {
